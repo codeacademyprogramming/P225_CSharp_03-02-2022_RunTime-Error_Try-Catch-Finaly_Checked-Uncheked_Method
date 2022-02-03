@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P225\Task\P225RuntimeErrorMethodFunction\bin\Debug\netcoreapp3.1\P225RuntimeErrorMethodFunction.exe
+C:\Users\memme\Desktop\P225\Task\P225RuntimeErrorMethodFunction\bin\Debug\netcoreapp3.1\P225RuntimeErrorMethodFunction.deps.json
+C:\Users\memme\Desktop\P225\Task\P225RuntimeErrorMethodFunction\bin\Debug\netcoreapp3.1\P225RuntimeErrorMethodFunction.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\P225RuntimeErrorMethodFunction\bin\Debug\netcoreapp3.1\P225RuntimeErrorMethodFunction.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\P225RuntimeErrorMethodFunction\bin\Debug\netcoreapp3.1\P225RuntimeErrorMethodFunction.dll
+C:\Users\memme\Desktop\P225\Task\P225RuntimeErrorMethodFunction\bin\Debug\netcoreapp3.1\P225RuntimeErrorMethodFunction.pdb
+C:\Users\memme\Desktop\P225\Task\P225RuntimeErrorMethodFunction\obj\Debug\netcoreapp3.1\P225RuntimeErrorMethodFunction.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\P225RuntimeErrorMethodFunction\obj\Debug\netcoreapp3.1\P225RuntimeErrorMethodFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\P225RuntimeErrorMethodFunction\obj\Debug\netcoreapp3.1\P225RuntimeErrorMethodFunction.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225RuntimeErrorMethodFunction\obj\Debug\netcoreapp3.1\P225RuntimeErrorMethodFunction.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\P225RuntimeErrorMethodFunction\obj\Debug\netcoreapp3.1\P225RuntimeErrorMethodFunction.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225RuntimeErrorMethodFunction\obj\Debug\netcoreapp3.1\P225RuntimeErrorMethodFunction.dll
+C:\Users\memme\Desktop\P225\Task\P225RuntimeErrorMethodFunction\obj\Debug\netcoreapp3.1\P225RuntimeErrorMethodFunction.pdb
+C:\Users\memme\Desktop\P225\Task\P225RuntimeErrorMethodFunction\obj\Debug\netcoreapp3.1\P225RuntimeErrorMethodFunction.genruntimeconfig.cache
